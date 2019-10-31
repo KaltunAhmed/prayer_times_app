@@ -55,4 +55,10 @@ export default {
 .sunset {
   color: #f79464;
 }
+h1 {
+  font-size: 55px;
+}
+h4 {
+  font-size: 30px;
+}
 </style>
